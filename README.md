@@ -27,11 +27,11 @@ docker exec -it ollama ollama rm <nome_do_modelo>
 
 ### modelo:
 
-docker exec -it ollama ollama run gemma:2b
-docker exec -it ollama ollama run mistral:latest
-docker exec -it ollama ollama run glm-ocr
-docker exec -it ollama ollama run qwen3-vl:2b
-docker exec -it ollama ollama run granite3.3:2b
-docker exec -it ollama ollama run nemotron-mini:4b
-docker exec -it ollama ollama run samuser3/NVIDIA-Nemotron-3-Nano-4B:latest
+#### docker exec -it ollama ollama run gemma:2b
+#### docker exec -it ollama ollama run mistral:latest
+#### docker exec -it ollama ollama run glm-ocr
+#### docker exec -it ollama ollama run qwen3-vl:2b
+#### docker exec -it ollama ollama run granite3.3:2b
+#### docker exec -it ollama ollama run nemotron-mini:4b
+#### docker exec -it ollama ollama run samuser3/NVIDIA-Nemotron-3-Nano-4B:latest
 
