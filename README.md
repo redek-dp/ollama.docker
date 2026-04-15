@@ -35,3 +35,7 @@ docker exec -it ollama ollama rm <nome_do_modelo>
 #### docker exec -it ollama ollama run nemotron-mini:4b
 #### docker exec -it ollama ollama run samuser3/NVIDIA-Nemotron-3-Nano-4B:latest
 
+### Execute com:
+
+chmod +x istollama.sh && ./istollama.sh
+
