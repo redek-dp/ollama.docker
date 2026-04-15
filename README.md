@@ -28,3 +28,5 @@ docker exec -it ollama ollama rm <nome_do_modelo>
 ### modelo:
 
 docker exec -it ollama ollama run mistral:latest
+docker exec -it ollama ollama run glm-ocr
+
