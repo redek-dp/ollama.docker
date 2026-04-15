@@ -37,5 +37,5 @@ docker exec -it ollama ollama rm <nome_do_modelo>
 
 ### Execute com:
 
-chmod +x ollama/setup.sh && ./ollama/setup.sh
+chmod +x istollama.sh && ./istollama.sh
 
